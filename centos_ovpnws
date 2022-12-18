@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='185.250.107.153';
+USER='mytunnel_demo1';
+PASS='mytunnel_demo1';
+DBNAME='mytunnel_demo1';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
